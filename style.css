@@ -1,0 +1,43 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(103, 103, 248);
+}
+
+.box-game {
+    margin-top: 40px;
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid rgb(13, 13, 13);
+    border-radius: 20px;
+}
+
+h1 {
+    font-size: 20px;
+    margin-top: 70px;
+}
+
+.ingresar-palabra {
+    width: 250px;
+    height: 50px;
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+.ingresar-letra {
+    width: 250px;
+    height: 50px;
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+p {
+    font-size: 50px;
+    border: 3px solid beige;
+    padding: 0;
+    margin: 0;
+}
